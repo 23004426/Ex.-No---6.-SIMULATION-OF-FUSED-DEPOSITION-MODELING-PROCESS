@@ -15,9 +15,10 @@
 ### STEP 5: Click on 'Start Process' to begin the process.
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
 ## OUTPUT:
-![Screenshot 2023-11-28 093047](https://github.com/23004426/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979327/23db2578-be4e-4ff0-bebf-94d6c2c42ef0)
-![Screenshot 2023-11-28 093108](https://github.com/23004426/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979327/eaab63c1-5828-41b5-aa87-c847bc835812)
-![Screenshot 2023-11-28 093129](https://github.com/23004426/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979327/048bd913-13cb-4165-ad32-b787068b17c4)
+![Screenshot 2023-11-28 103312](https://github.com/23004426/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979327/6d9c5803-da31-4f69-bbd0-a8722f5fce60)
+![Screenshot 2023-11-28 103357](https://github.com/23004426/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979327/8fee46c8-e64e-4cd0-a470-99f6e47d0fa1)
+![Screenshot 2023-11-28 103420](https://github.com/23004426/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979327/c46f44bc-1740-460d-af3e-699f756d7d6f)
+
 ## Output:
 
 ### Name:Tirupathi Jayadeep
