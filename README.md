@@ -14,16 +14,14 @@
 ### STEP 4: Click on 'Filament' then filament will be added.
 ### STEP 5: Click on 'Start Process' to begin the process.
 ### STEP 6: After the process is complete click on 'Stop Process' to view product generated using FDM process.
-
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/998a5e1b-4fea-4f03-a323-dd49973513a7)
-![123_2](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/92d9d5de-1d13-43b2-a354-c3429e38d50b)
-![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
-
+![Screenshot 2023-11-28 093047](https://github.com/23004426/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979327/23db2578-be4e-4ff0-bebf-94d6c2c42ef0)
+![Screenshot 2023-11-28 093108](https://github.com/23004426/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979327/eaab63c1-5828-41b5-aa87-c847bc835812)
+![Screenshot 2023-11-28 093129](https://github.com/23004426/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/144979327/048bd913-13cb-4165-ad32-b787068b17c4)
 ## Output:
 
-### Name:
-### Register Number:
+### Name:Tirupathi Jayadeep
+### Register Number:23004426
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
